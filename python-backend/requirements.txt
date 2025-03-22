@@ -1,0 +1,31 @@
+numpy>=1.22.0
+opencv-python>=4.7.0
+dlib>=19.24.0
+fastapi>=0.103.0
+uvicorn>=0.23.2
+python-multipart>=0.0.6
+pillow>=10.0.0
+
+
+# Python dependencies for OpenFace backend
+
+# FastAPI and related
+fastapi==0.110.0
+uvicorn==0.28.0
+python-multipart==0.0.9
+pydantic==2.6.3
+
+# OpenCV for image processing
+opencv-python==4.9.0.80
+
+# OpenFace
+openface==0.3.0
+dlib==19.24.2
+
+# MongoDB
+pymongo==4.6.1
+
+# Utilities
+numpy==1.26.4
+pillow==10.2.0
+python-dotenv==1.0.1
